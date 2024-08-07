@@ -1,5 +1,6 @@
 Setup database: 
-Open SQL editor on database tools like Navicat, Dbeaver, etc and copy the content of task_manager.sql inside the folder database.
+- Open SQL editor on database tools like Navicat, Dbeaver, etc
+- Copy the content of task_manager.sql inside the folder database.
 
 Run project locally: 
 1. Using Valet with NGINX (Mac Only)
