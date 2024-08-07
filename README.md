@@ -1,3 +1,7 @@
+Project specifications:
+- Mysql  Ver 8.3.0 
+- PHP 8.3.9 
+
 Setup database: 
 - Open SQL editor on database tools like Navicat, Dbeaver, etc
 - Copy the content of task_manager.sql inside the folder database into SQL editor.
