@@ -12,4 +12,4 @@ Run project locally:
      - Download XAMPP or Laragon on their respective official websites.
      - Install the App and turn on the app
      - Placed the project inside www folder for Laragon or htdoc folder for     XAMPP
-     - Open the browser and type 'localhost/folder_project_name'~
+     - Open the browser and type 'localhost/folder_project_name'
