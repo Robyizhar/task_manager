@@ -1,6 +1,7 @@
 Setup database: 
 - Open SQL editor on database tools like Navicat, Dbeaver, etc
 - Copy the content of task_manager.sql inside the folder database into SQL editor.
+- Change database settings such as username and password in the config.php file according to the settings on your computer.
 
 Run project locally: 
 1. Using Valet with NGINX (Mac Only)
