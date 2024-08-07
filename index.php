@@ -122,6 +122,7 @@
                     <tr>
                         <th class="border-double border-4 border-sky-500 py-2">No</th>
                         <th class="border-double border-4 border-sky-500 py-2">Title</th>
+                        <th class="border-double border-4 border-sky-500 py-2">Description</th>
                         <th class="border-double border-4 border-sky-500 py-2">Status</th>
                         <th class="border-double border-4 border-sky-500 py-2">Action</th>
                     </tr>
@@ -131,6 +132,7 @@
                         <tr class="bg-gray-100">
                             <td class="border-double border-4 border-sky-500 py-2 px-4"><?php echo $index; ?></td>
                             <td class="border-double border-4 border-sky-500 py-2 px-4"><?php echo htmlspecialchars($task['title']); ?></td>
+                            <td class="border-double border-4 border-sky-500 py-2 px-4"><?php echo htmlspecialchars($task['description']); ?></td>
                             <td class="border-double border-4 border-sky-500 py-2 px-4"><?php echo htmlspecialchars($task['status']); ?></td>
                             <td class="border-double border-4 border-sky-500 py-2 px-4">
                                 <form method="post" class="inline-block">
